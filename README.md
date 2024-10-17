@@ -1,3 +1,4 @@
+.
 <p align="center" style="border-radius: 50%;">
   <img src="gplus_icon.svg" alt="Grindr Plus Icon" width="150" height="150">
 </p>
